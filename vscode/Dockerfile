@@ -1,3 +1,9 @@
+# Marc:
+# This adds a few development dependencies
+# needed for VS Code.
+#
+#
+# -------------
 FROM gitpod/workspace-full-vnc:latest
 
 # install dependencies

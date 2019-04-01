@@ -1,3 +1,17 @@
+# Marc:
+#
+# this is the Gitpod config file for the
+# development environment for VS Code.
+#
+# It uses a VNC-enabled Gitpod Docker image,
+# so one can run this desktop application from
+# this cloud service. It's opened on the right
+#                                      ------>
+# Upon the workspace starting, the
+# "./scripts/code.sh" script is called to
+# build and start the application.
+#
+# -------------
 image:
   file: Dockerfile
 ports:
